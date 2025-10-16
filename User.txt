@@ -1,0 +1,158 @@
+   <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">022fc92b-97c3-47c8-9068-32862e4bcd63</AD_Role_ID>
+        <AD_Window_Access_UU>3985175c-1120-411c-8b44-86600345e66a</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>Y</IsActive>
+        <IsReadWrite>Y</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">ae910398-c86f-448c-a243-86996fa74219</AD_Role_ID>
+        <AD_Window_Access_UU>959e9370-8ab2-4d06-9557-8700ed385675</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>Y</IsActive>
+        <IsReadWrite>Y</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">ae910398-c86f-448c-a243-86996fa74219</AD_Role_ID>
+        <AD_Window_Access_UU>7a80542c-94fd-41c3-8813-e78cc2c1e89f</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>Y</IsActive>
+        <IsReadWrite>Y</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">c1cb4e77-8019-4968-b0c4-eddb198e1a4e</AD_Role_ID>
+        <AD_Window_Access_UU>3ff24288-ac65-4718-9234-eff2fc52d253</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">7c1f0103-1eea-4776-807c-f96445adea8d</AD_Window_ID>
+        <IsActive>Y</IsActive>
+        <IsReadWrite>Y</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">0b2edddd-8214-4435-bfdf-8a139dc4e4b8</AD_Role_ID>
+        <AD_Window_Access_UU>a5a9518d-ca49-4c83-9f15-f0ae2e040d2f</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>Y</IsActive>
+        <IsReadWrite>Y</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">060f494d-6035-456a-9383-9e70925a47e0</AD_Role_ID>
+        <AD_Window_Access_UU>f67fda21-4af1-48a3-8c86-a59d1635c087</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">de676b50-6753-4eb3-b705-f073a298b64b</AD_Role_ID>
+        <AD_Window_Access_UU>e9c4d93f-e2a6-4f9c-b520-fa58d3e399a2</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>Y</IsActive>
+        <IsReadWrite>Y</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">c1cb4e77-8019-4968-b0c4-eddb198e1a4e</AD_Role_ID>
+        <AD_Window_Access_UU>7d4e8832-7898-48ae-97ae-053c25c533b0</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">784f8a72-9f33-4666-bf59-b90d89a86797</AD_Role_ID>
+        <AD_Window_Access_UU>4f0c6950-6b32-410f-85a3-64ebb323081c</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">0b2edddd-8214-4435-bfdf-8a139dc4e4b8</AD_Role_ID>
+        <AD_Window_Access_UU>1d35ec5b-3deb-415e-b9bf-d6a14b5af486</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">67fc0d82-494b-4ad6-9a39-cfd292d2b88f</AD_Role_ID>
+        <AD_Window_Access_UU>1b5b8831-2acf-420b-92bf-ab6d40069c11</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">f80109cd-669f-4abe-96fc-e66c6983eef3</AD_Window_ID>
+        <IsActive>Y</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">7897cbfc-1ebb-402e-b0d2-714afef6926a</AD_Role_ID>
+        <AD_Window_Access_UU>565436c4-b957-4187-97b9-93a003721007</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">de676b50-6753-4eb3-b705-f073a298b64b</AD_Role_ID>
+        <AD_Window_Access_UU>e911e5b1-afc0-46f0-ac8f-5f8f9675cefc</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">022fc92b-97c3-47c8-9068-32862e4bcd63</AD_Role_ID>
+        <AD_Window_Access_UU>8ae0e799-f4e0-4025-816c-00ba4bb8582e</AD_Window_Access_UU>
+    </AD_Window_Access>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">784f8a72-9f33-4666-bf59-b90d89a86797</AD_Role_ID>
+        <AD_Window_Access_UU>22ee9185-19b8-4244-9a83-9063a6dbdcd5</AD_Window_Access_UU>
+    </AD_Window_Access>
+	 <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">67fc0d82-494b-4ad6-9a39-cfd292d2b88f</AD_Role_ID>
+        <AD_Window_Access_UU>6b3645ce-a5a5-428a-92ba-2d12603ad082</AD_Window_Access_UU>
+    </AD_Window_Access>uuid" reference-key="AD_Role">7897cbfc-1ebb-402e-b0d2-714afef6926a</AD_Role_ID>
+    <AD_Window_Access type="table">
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">67fc0d82-494b-4ad6-9a39-cfd292d2b88f</AD_Role_ID>
+        <AD_Window_Access_UU>6b3645ce-a5a5-428a-92ba-2d12603ad082</AD_Window_Access_UU>
+    </AD_Window_Access>uuid" reference-key="AD_Role">7897cbfc-1ebb-402e-b0d2-714afef6926a</AD_Role_ID>
+    <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">67fc0d82-494b-4ad6-9a39-cfd292d2b88f</AD_Role_ID>
+        <AD_Window_Access_UU>6b3645ce-a5a5-428a-92ba-2d12603ad082</AD_Window_Access_UU>
+    </AD_Window_Access>uuid" reference-key="AD_Role">7897cbfc-1ebb-402e-b0d2-714afef6926a</AD_Role_ID>
+ <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">67fc0d82-494b-4ad6-9a39-cfd292d2b88f</AD_Role_ID>
+        <AD_Window_Access_UU>6b3645ce-a5a5-428a-92ba-2d12603ad082</AD_Window_Access_UU>
+    </AD_Window_Access>uuid" reference-key="AD_Role">7897cbfc-1ebb-402e-b0d2-714afef6926a</AD_Role_ID>
+
+
+
+
+
