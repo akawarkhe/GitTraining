@@ -143,3 +143,16 @@
         <AD_Role_ID reference="uuid" reference-key="AD_Role">67fc0d82-494b-4ad6-9a39-cfd292d2b88f</AD_Role_ID>
         <AD_Window_Access_UU>6b3645ce-a5a5-428a-92ba-2d12603ad082</AD_Window_Access_UU>
     </AD_Window_Access>uuid" reference-key="AD_Role">7897cbfc-1ebb-402e-b0d2-714afef6926a</AD_Role_ID>
+ <AD_Window_Access type="table">
+        <AD_Org_ID>0</AD_Org_ID>
+        <AD_Window_ID reference="uuid" reference-key="AD_Window">e59dbd1d-67e3-4169-8852-d7ff85d3d434</AD_Window_ID>
+        <IsActive>N</IsActive>
+        <IsReadWrite>N</IsReadWrite>
+        <AD_Role_ID reference="uuid" reference-key="AD_Role">67fc0d82-494b-4ad6-9a39-cfd292d2b88f</AD_Role_ID>
+        <AD_Window_Access_UU>6b3645ce-a5a5-428a-92ba-2d12603ad082</AD_Window_Access_UU>
+    </AD_Window_Access>uuid" reference-key="AD_Role">7897cbfc-1ebb-402e-b0d2-714afef6926a</AD_Role_ID>
+
+
+
+
+
